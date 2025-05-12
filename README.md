@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project is a comprehensive E-commerce dashboard built using **Power BI**, aimed at providing data-driven insights into key business metrics. The dashboard offers a visual representation of sales performance, customer behavior, product trends, and other vital KPIs to assist in informed decision-making.
+This project is a comprehensive E-commerce dashboard built using **Power BI**, aimed at providing data-driven insights into key business metrics. The dashboard offers a visual representation of sales performance, customer behavior, product trends.
 
 ## 🎯 Features
 
